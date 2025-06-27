@@ -4,7 +4,7 @@ import { FaFacebook, FaGithub, FaLinkedin } from 'react-icons/fa';
 
 const Banner = () => {
   return (
-    <div className="max-w-7xl mx-auto rounded-2xl my-8 bg-[#F1F2F4]">
+    <div id='banner' className="max-w-7xl mx-auto rounded-2xl my-8 py-8 bg-[#F1F2F4] shadow-md hover:shadow-lg transition duration-300s">
       <div className="hero-content flex-col gap-24 lg:flex-row-reverse">
         <img src={img} className="max-w-sm rounded-lg shadow-2xl" alt="Toma" />
 
