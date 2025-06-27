@@ -1,5 +1,7 @@
 
 import './App.css'
+import Banner from './Component/Banner/Banner'
+import Navbar from './Component/Navbar/Navbar'
 
 function App() {
  
@@ -7,7 +9,8 @@ function App() {
   return (
     <>
       
-      <h1>Vite + React</h1>
+     <Navbar></Navbar>
+     <Banner></Banner>
     
     </>
   )
