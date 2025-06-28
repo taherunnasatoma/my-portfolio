@@ -20,7 +20,7 @@ const Banner = () => {
           
           <div className="flex items-center gap-4 mt-5">
             <a
-              href="https://facebook.com"
+              href="https://www.facebook.com/share/1ECihkYSpT/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 hover:text-blue-800 text-2xl"

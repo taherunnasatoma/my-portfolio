@@ -4,6 +4,7 @@ import AboutMe from './Component/AboutMe/AboutMe'
 import Banner from './Component/Banner/Banner'
 import Education from './Component/Education/Education'
 import Navbar from './Component/Navbar/Navbar'
+import Project from './Component/Projects/Project'
 import Skills from './Component/Skills/Skills'
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
      <AboutMe></AboutMe>
      <Skills></Skills>
      <Education></Education>
+     <Project></Project>
     
     </>
   )

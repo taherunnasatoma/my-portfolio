@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "title": "Car Rental System",
+    "brief_description": "A full-stack car rental platform that enables users to browse, book, and manage cars seamlessly. Built with React.js, Node.js, Express.js, and MongoDB. Features include user authentication (Firebase & JWT), real-time car availability, booking management, and advanced filtering.",
+    "main_features": [
+      "🔐 Secure user login/registration with Firebase",
+      "📅 Car booking with real-time availability",
+      "🛠 Modify or cancel bookings",
+      "📄 Private routes for My Bookings and Car Details",
+      "📊 Admin or Owner listing management",
+      "📱 Fully responsive design",
+      "🎨 Attractive UI with animation and modals"
+    ],
+    "technologies": [
+      "React.js",
+      "Tailwind CSS",
+      "DaisyUI",
+      "Node.js",
+      "Express.js",
+      "Firebase Auth",
+      "JWT",
+      "MongoDB"
+    ],
+    "image": "/Project/p1.png",
+    "live_link": "https://tangerine-cobbler-2e732b.netlify.app/",
+    "github_client_side": "https://github.com/taherunnasatoma/b11a11-client-side-taherunnasatoma",
+    "github_server_side": "https://github.com/taherunnasatoma/b11a11-server-side-taherunnasatoma"
+  },
+  {
+    "id": 2,
+    "title": "Roommate Finder System",
+    "brief_description": "Roommate Finder is a web platform designed to help individuals find compatible roommates based on location, budget, lifestyle preferences, and interests. Users can create profiles, search for suitable roommates, and explore available listings easily.",
+    "main_features": [
+      "🔐 User registration and authentication",
+      "👤 Create and manage user profiles",
+      "📱 Search roommates by location, budget, and lifestyle preferences",
+      "📱 Post and browse roommate listings",
+      "📄 Protected routes for user-specific content",
+      "🎨 Responsive design for mobile and desktop"
+    ],
+    "technologies": [
+      "React.js",
+      "Tailwind CSS",
+      "DaisyUI",
+      "Node.js",
+      "Express.js",
+      "Firebase Auth",
+      "MongoDB"
+    ],
+    "image": "/Project/p2.png",
+    "live_link": "https://remarkable-narwhal-77e941.netlify.app/",
+    "github_client_side": "https://github.com/taherunnasatoma/b11a10-client-side-taherunnasatoma",
+    "github_server_side": "https://github.com/taherunnasatoma/b11a10-server-side-taherunnasatoma"
+  },
+  {
+    "id": 3,
+    "title": "Job Listing & Finder Web Application",
+    "brief_description": "A responsive job listing platform that allows users to explore job opportunities across various companies, view company and job details, and manage their profiles securely.",
+    "main_features": [
+      "🔐 Authentication System with Google & Email/Password",
+      "🔁 Forget Password Functionality (without email verification)",
+      "👤 Private Routes for Company Details and Profile",
+      "🧾 Dynamic Company & Job Listing with JSON-based data",
+      "💼 Job Details Modal with full info and Apply button",
+      "🖼️ User Profile View and Update (Name, Photo URL)",
+      "📱 Fully Responsive on all devices",
+      "🎨 Smooth UI/UX with Framer Motion Animations",
+      "❌ Custom 404 Page and one extra informative route"
+    ],
+    "technologies": [
+      "React.js",
+      "Tailwind CSS",
+      "DaisyUI",
+      "Firebase Auth"
+    ],
+    "image": "/Project/p3.png",
+    "live_link": "https://unrivaled-croquembouche-f1311c.netlify.app/",
+    "github_client_side": "https://github.com/taherunnasatoma/b11a9-react-authentication-taherunnasatoma"
+  }
+]
