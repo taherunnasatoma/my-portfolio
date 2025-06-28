@@ -2,6 +2,7 @@
 import './App.css'
 import AboutMe from './Component/AboutMe/AboutMe'
 import Banner from './Component/Banner/Banner'
+import Contact from './Component/Contact/Contact'
 import Education from './Component/Education/Education'
 import Navbar from './Component/Navbar/Navbar'
 import Project from './Component/Projects/Project'
@@ -19,6 +20,7 @@ function App() {
      <Skills></Skills>
      <Education></Education>
      <Project></Project>
+     <Contact></Contact>
     
     </>
   )
