@@ -67,7 +67,7 @@ const ProjectSection = ({ project }) => {
               🔧 GitHub (Server)
             </a>
           )}
-          <button className="btn btn-outline btn-sm">🔍 Details</button>
+          
         </div>
       </div>
     </div>
