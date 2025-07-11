@@ -4,11 +4,11 @@ const Education = () => {
   return (
     <section
       id="education"
-      className="bg-[#F1F2F4] text-center max-w-7xl mx-auto my-10 px-4 sm:px-8 md:px-16 lg:px-24 py-12 sm:py-16 lg:py-20 rounded-2xl shadow-md hover:shadow-lg transition duration-300"
+      className="bg-white text-center max-w-7xl mx-auto my-10 px-4 sm:px-8 md:px-16 lg:px-24 py-12 sm:py-16 lg:py-20 rounded-2xl shadow-md hover:shadow-lg transition duration-300"
     >
       <h2 className="text-3xl sm:text-4xl font-bold mb-6 sm:mb-8">Education</h2>
 
-      <h3 className="text-2xl sm:text-3xl font-semibold text-blue-600 mb-2">
+      <h3 className="text-2xl text-black sm:text-3xl font-semibold text- mb-2">
         Bachelor of Science in Computer Science and Engineering (BCSE)
       </h3>
 

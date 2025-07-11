@@ -4,12 +4,12 @@ import logo from '../../assets/logo.png';
 const Navbar = () => {
   const links = (
     <>
-      <li><a href="#banner" className="text-blue-600 text-xl hover:underline font-bold">Home</a></li>
-      <li><a href="#about" className="text-blue-600 text-xl hover:underline font-bold">About</a></li>
-      <li><a href="#skills" className="text-blue-600 text-xl hover:underline font-bold">Skills</a></li>
-      <li><a href="#education" className="text-blue-600 text-xl hover:underline font-bold">Education</a></li>
-      <li><a href="#projects" className="text-blue-600 text-xl hover:underline font-bold">Projects</a></li>
-      <li><a href="#contact" className="text-blue-600 text-xl hover:underline font-bold">Contact</a></li>
+      <li><a href="#banner" className="text-[#66d4f7] text-xl hover:underline font-bold">Home</a></li>
+      <li><a href="#about" className="text-[#66d4f7] text-xl hover:underline font-bold">About</a></li>
+      <li><a href="#skills" className="text-[#66d4f7] text-xl hover:underline font-bold">Skills</a></li>
+      <li><a href="#education" className="text-[#66d4f7] text-xl hover:underline font-bold">Education</a></li>
+      <li><a href="#projects" className="text-[#66d4f7] text-xl hover:underline font-bold">Projects</a></li>
+      <li><a href="#contact" className="text-[#66d4f7] text-xl hover:underline font-bold">Contact</a></li>
     </>
   );
 
@@ -40,8 +40,15 @@ const Navbar = () => {
       </div>
 
       <div className="navbar-end">
-        <a className="btn bg-[#0f62fe] text-white">Resume</a>
+        <a
+          href="/taherun_nasa_toma_resume.pdf"
+          download
+          className="btn bg-[#66d4f7] text-white"
+        >
+          Resume
+        </a>
       </div>
+
     </div>
   );
 };

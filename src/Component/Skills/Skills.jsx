@@ -53,7 +53,7 @@ const Skills = () => {
   return (
     <section
       id="skills"
-      className="py-12 bg-[#F1F2F4] max-w-7xl mx-auto rounded-2xl px-4 sm:px-8 shadow-md transition duration-300"
+      className="py-12 bg-white max-w-7xl mx-auto rounded-2xl px-4 sm:px-8 shadow-md transition duration-300"
     >
       <h2 className="text-4xl font-bold text-center mb-12">My Skills</h2>
 

@@ -14,7 +14,7 @@ const ProjectSection = ({ project }) => {
 
   
       <div className="w-full lg:w-1/2 space-y-4">
-        <h2 className="text-3xl font-bold text-blue-600">{project.title}</h2>
+        <h2 className="text-3xl font-bold text-black">{project.title}</h2>
         <p className="text-gray-700">{project.brief_description}</p>
 
         <div>
@@ -45,7 +45,7 @@ const ProjectSection = ({ project }) => {
             href={project.live_link}
             target="_blank"
             rel="noopener noreferrer"
-            className="btn bg-blue-600 text-white btn-sm"
+            className="btn bg-[#66d4f7] text-white btn-sm"
           >
             🔗 Live Link
           </a>
